@@ -6,4 +6,5 @@ This is a 2D game built using pygame. The player controls a spaceship and can sh
 controls:
 
 left, right, up, down arrow keys to move
+
 left or right Ctrl to shoot
